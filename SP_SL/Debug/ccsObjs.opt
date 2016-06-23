@@ -1,0 +1,1 @@
+"./irupt.obj" "./main.obj" "./hal/adc12.obj" "./core/core.obj" "./core/flash.obj" "./core/comm/comm.obj" "./core/comm/crc.obj" "./Light/light.obj" "../lnk_msp430f235.cmd" -l"libc.a" 
